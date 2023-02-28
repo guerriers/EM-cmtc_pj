@@ -1,0 +1,9 @@
+.container {
+    border: 5px solid #000000;
+    border-radius: 25px ;
+
+} 
+
+form{
+    margin-bottom: 25px;
+}
